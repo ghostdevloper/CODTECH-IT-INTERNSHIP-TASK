@@ -12,7 +12,8 @@
 
 **OVERVIEW OF THE PROJECTS**
 
-**The code performs the following steps:**
+**Project**:  **EXPLORATORY DATA ANALYSIS (EDA)**
+
 
 **Imports necessary libraries:**
 pandas, NumPy, matplotlib.pyplot, and seaborn.
